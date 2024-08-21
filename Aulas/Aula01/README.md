@@ -54,12 +54,7 @@ O G Suite é como um escritório virtual completo fornecido pelo Google, facilit
 8. **Modelos Prontos:** Existem muitos modelos prontos que você pode usar, como planilhas para orçamento, planejamento de projetos, rastreamento de tarefas e muito mais.
 
 
-
 O Google Planilhas é uma ferramenta online para criar e gerenciar planilhas eletrônicas, oferecendo funcionalidades para cálculos, gráficos e colaboração em tempo real. É uma opção prática e acessível para organizar e analisar dados de forma eficiente, e você pode acessar suas planilhas de qualquer lugar com internet.
-
-## **Alguns fatos sobre o Google Planilhas**
-
-Claro, vou listar as vantagens do Google Planilhas tanto em aspectos nativos (embutidos na ferramenta) quanto inativos (funcionalidades que podem ser obtidas através de integrações ou extensões).
 
 ### Vantagens Nativas do Google Planilhas
 
@@ -86,5 +81,3 @@ Claro, vou listar as vantagens do Google Planilhas tanto em aspectos nativos (em
 8. **Automação de Fluxos de Trabalho**: Integração com ferramentas de automação para criar fluxos de trabalho que conectam Google Planilhas com outras aplicações e processos de negócios.
 
 Essas vantagens mostram como o Google Planilhas não só oferece uma gama robusta de recursos nativos, mas também como pode ser expandido e personalizado através de integrações e complementos para atender a necessidades específicas e complexas.
-
-**Conhecendo o Google Planilhas**
